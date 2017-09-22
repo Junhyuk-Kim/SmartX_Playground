@@ -1,7 +1,7 @@
 # Playground User Guide
 ## Open API for OF@KOREN Playground Users
 
-![](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/Images/OpenAPI.png)
+![](https://github.com/KOREN-Platform/Playground/blob/master/Images/OpenAPI.png)
 
 본 페이지에서는 OF@KOREN Playground 사용자들의 편의성을 위한 모니터링 지원 기능에 대한
 Open API를 제공합니다.
