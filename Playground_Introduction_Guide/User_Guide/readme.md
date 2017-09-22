@@ -1,4 +1,13 @@
 # Playground User Guide
+
+## Tutorial Documents
+
+[How to Access VMs using SSH key](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/User_Guide/How%20to%20Access%20VMs%20using%20SSH%20key.pdf)
+
+## Tutorial Video
+
+[Tutorial Video](https://www.youtube.com/watch?v=5RS1S0uOZts)
+
 ## Open API for OF@KOREN Playground Users
 
 ![](https://github.com/KOREN-Platform/Playground/blob/master/Images/OpenAPI.png)
@@ -46,10 +55,3 @@ Open API들은 요청(Request)에 대한 응답으로 JSON 방식의 데이터�
 
 문의: ops@smartx.kr
 
-### Tutorial Documents
-
-[How to Access VMs using SSH key](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/User_Guide/How%20to%20Access%20VMs%20using%20SSH%20key.pdf)
-
-### Tutorial Video
-
-[Tutorial Video](https://www.youtube.com/watch?v=5RS1S0uOZts)
