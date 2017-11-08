@@ -1,3 +1,5 @@
+(https://github.com/KOREN-Platform/Playground/blob/master/Images/playground_home.PNG)
+
 # KOREN-Playground
 
 ![](https://raw.githubusercontent.com/SmartX-Labs/KOREN-Playground/master/images/infra.PNG)
