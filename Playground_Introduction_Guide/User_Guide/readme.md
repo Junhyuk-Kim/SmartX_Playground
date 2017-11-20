@@ -15,6 +15,44 @@
 
 [Type-O 내부 네트워크 설정 및 스크립트 세부 설명](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/User_Guide/How%20to%20Access%20VMs%20using%20SSH%20key.pdf)
 
+## Playground User Guide
+---------------------------
+- Step 1 Write registration following below form and send e-mail here : ops@smartx.kr  
+
+Format
+
+Account : please write like this: <school_ID> (ex. GIST_JG)
+
+Temporary password :
+
+Name :
+
+Phone :
+
+E-mail :
+
+- Step 2 Log-in your account to 210.114.90.12/horizon
+
+[How to Access VMs using SSH key 참고](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/User_Guide/How%20to%20Access%20VMs%20using%20SSH%20key.pdf) 
+ 
+- Step 3 How to Create Volume and Attach the Volume to Instance  
+
+![](https://github.com/KOREN-Platform/Playground/blob/master/Images/playground_guide_volume.PNG)
+
+- Step 4 Follow simple tutorial and enjoy your playground
+
+*You can download "How to access VMs using SSH key" and OpenStack_Volume_Guide" pdf file under this page *
+  
 ## Tutorial Documents
 
-추후 업데이트 예정
+[How to Access VMs using SSH key](https://github.com/KOREN-Platform/Playground/blob/master/Playground_Introduction_Guide/User_Guide/How%20to%20Access%20VMs%20using%20SSH%20key.pdf)
+
+## Tutorial Video
+
+[Tutorial Video](https://www.youtube.com/watch?v=5RS1S0uOZts)
+
+***
+
+질문이나 피드백은 언제나 환영합니다. 아래의 메일 주소나 issues 페이지를 통해 소중한 의견 부탁드립니다.
+
+문의: ops@smartx.kr
